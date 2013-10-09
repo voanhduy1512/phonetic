@@ -1,3 +1,5 @@
+# [DEMO](http://phonetic.anhduy.io)
+
 A simple app translate english word to phonetic. Save time looking up dictionary
 
 ### Some of the phonetic may not be correct, oull request are welcome
