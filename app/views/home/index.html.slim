@@ -1,0 +1,9 @@
+= form_tag home_translate_path, :method => :post
+  textarea#text style='width:900px;height:200px' name='text'
+  input type='submit' value="Submit"
+
+
+- if @phonetic_text
+  = @text
+  br/
+  = @phonetic_text
